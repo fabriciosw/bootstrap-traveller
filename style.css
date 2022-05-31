@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;500;700;900&display=swap');
+
+* {
+    font-family: Nunito !important;
+}
+.orange {
+    background-color: #F25C05 !important;
+    color: #fff !important
+}
+
+.text-orange {
+    color: #5D14A6;
+}
+
+.purple {
+    background-color: #5D14A6 !important;
+    color: #fff !important
+}
+
+.dark {
+    background-color: #091E26 !important;
+    color: #fff !important;
+}
+
+input {
+    width: 30vw;
+}
